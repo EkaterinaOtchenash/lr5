@@ -12,5 +12,4 @@ namespace WindowsFormsAppPatternBuilder. BuilderBurger
 		Burgers GetBurgers();
 	}
 
-	//bfkjgbslejhgjadbgf
 }
