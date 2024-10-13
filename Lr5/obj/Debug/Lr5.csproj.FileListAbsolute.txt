@@ -1,0 +1,17 @@
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\bin\Debug\Lr5.exe.config
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\bin\Debug\Lr5.exe
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\bin\Debug\Lr5.pdb
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\bin\Debug\EntityFramework.dll
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\bin\Debug\EntityFramework.xml
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\obj\Debug\Lr5.csproj.AssemblyReference.cache
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\obj\Debug\Lr5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\obj\Debug\Lr5.Properties.Resources.resources
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\obj\Debug\Lr5.csproj.GenerateResource.cache
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\obj\Debug\Lr5.csproj.CoreCompileInputs.cache
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\obj\Debug\Lr5.csproj.CopyComplete
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\obj\Debug\Lr5.exe
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\obj\Debug\Lr5.pdb
+C:\Users\ezhab\OneDrive\Documents\домашка\ркис\Lr5\Lr5\obj\Debug\Lr5.Form1.resources
